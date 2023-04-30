@@ -1,0 +1,9 @@
+<template name="msgItem">
+  <view>
+    <text> 我是模板 </text>
+    <text style="color: red; font-size: 20px;"> 这是我的样式 </text>
+  </view>
+</template>
+<view>
+    我是template外面的文字
+</view>

@@ -1,0 +1,5 @@
+<!--pages/headline/headline.wxml-->
+<import src="../template/template"/>
+<view class="list">
+    <template is="cooks" data="{{array}}"/>
+  </view>
